@@ -1,0 +1,42 @@
+body {
+		font-family: courier;
+		margin: 0; 
+		background-image: url("img2.jpg");
+		background-size: cover;
+		background-repeat: all;
+		background-position: center center;
+}
+a{
+	    text-decoration: underline; 
+		color: FFFFFF;
+        font-size: 1.5em;
+		-webkit-text-stroke:0.03em black;
+		font-family: arial; 
+		
+}
+
+p{
+		color: FFFFFF;
+        font-size: 1.5em;
+		 -webkit-text-stroke:0.03em black;
+		font-family: arial; 
+		
+
+}
+table,td {
+	border: 2px solid black;
+	table-layout: auto;
+	border-collapse: collapse;
+	color: FFFFFF;
+	font-size: 1.2em;
+	-webkit-text-stroke:0.03em black;
+	font-family: arial; 
+}
+h2 {
+	color: FFFFFF;
+	font-size: 2em;
+	-webkit-text-stroke:1px black;
+	font-family: arial; 
+}
+
+.space { margin-top: 900px; }
